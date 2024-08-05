@@ -1,0 +1,44 @@
+_repo: A-frontier-knight-b-A-story-of-early-Texan-border-life_74155
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stecher, William F. (William Frederick)
+    aliases:
+    - Stecher, William Frederick
+    - Stecher, Will F.
+    birthdate: 1864
+    gutenberg_agent_id: '25257'
+    url: http://www.gutenberg.org/2009/agents/25257
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74155'
+language: en
+pgterms:marc904: https://archive.org/details/frontierknightst00blan
+pgterms:marc905: 20221125173822blanchard
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bW. A. Wilde Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A frontier knight : $b A story of early Texan border-life'
+url: http://www.gutenberg.org/ebooks/74155
