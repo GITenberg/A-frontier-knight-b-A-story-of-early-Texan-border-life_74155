@@ -9,6 +9,9 @@ contributor:
     birthdate: 1864
     gutenberg_agent_id: '25257'
     url: http://www.gutenberg.org/2009/agents/25257
+covers:
+- cover_type: archival
+  image_path: 74155-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74155#A-frontier-knight-b-A-story-of-early-Texan-border-life
 gutenberg_issued: '2024-07-30'
 gutenberg_type: Text
 identifiers:
